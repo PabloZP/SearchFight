@@ -3,7 +3,7 @@ Cignium Challenge
 
 Search words entered in search engines and compare number of results.
 
-The executable file SearchFight.exe is in the folder: PjChallenge\bin\Debug.
+The executable file SearchFight.exe is in the folder: SearchFight\bin\Debug.
  In the command line ( User must type: SearchFight)
 Besides the console project called SearchFight, just as a plus, the solution includes a desktop project called PjChallenge. 
 
