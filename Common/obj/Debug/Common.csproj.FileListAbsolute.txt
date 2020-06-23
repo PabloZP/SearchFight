@@ -1,0 +1,5 @@
+D:\zp\PZP\CV\jobs\2020\JoyIT\ChallengeCode\PjChallenge\Common\bin\Debug\Common.dll
+D:\zp\PZP\CV\jobs\2020\JoyIT\ChallengeCode\PjChallenge\Common\bin\Debug\Common.pdb
+D:\zp\PZP\CV\jobs\2020\JoyIT\ChallengeCode\PjChallenge\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\zp\PZP\CV\jobs\2020\JoyIT\ChallengeCode\PjChallenge\Common\obj\Debug\Common.dll
+D:\zp\PZP\CV\jobs\2020\JoyIT\ChallengeCode\PjChallenge\Common\obj\Debug\Common.pdb
